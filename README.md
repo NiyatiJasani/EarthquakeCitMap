@@ -8,7 +8,7 @@ The attached src code is based on the online course offered at coursera called [
 * Design classes to make use of object-oriented programming paradigms
 
 
-**Some of the things I learnt in this project: **
+**Some of the things I learnt in this project:**
 
 *  Design classes to make use of object-oriented programming paradigms
 *  Implementation of inheritance and polymorphism in the creation of a Java GUI.
